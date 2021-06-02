@@ -1,0 +1,118 @@
+header{
+    height: 600px;
+}
+.row-header p{
+    height: 300px;
+    text-align: left;
+}
+.row-header h1{
+    text-align: left;
+    margin-top: 100px;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+.jumbotron img{
+    height: 300px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    height: 400px;
+    color: white;
+    background-color: #262f4d;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #fdfbff ;
+    color:rgb(0, 0, 0);
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+    background: #fdfbff ;
+}
+
+.navbar {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.tab-content {
+    border-left: 1px solid#ddd;
+    border-right: 1px solid#ddd;
+    border-bottom: 1px solid#ddd;
+    padding: 10px;
+}
+.carousel {
+    background:#ffffff;
+}
+
+.carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+    top: 0;
+    left: 0;
+    height: 500px;
+    margin-left: 500px;
+}
+.carousel-item h2 {
+    margin-right: 500px;
+    margin-bottom: 200px;
+    text-align: left;
+}
+
+#carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+
+p {
+    color: rgb(0, 0, 0);
+  }
+h2 {
+    color: rgb(0, 0, 0);
+  }
+.footer h5{
+    margin-top: 100px;
+}
+.footer a{
+    color: white;
+}
+.nav-item a{
+    color: black;
+}
+.button {
+    border: none;
+    color:white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
